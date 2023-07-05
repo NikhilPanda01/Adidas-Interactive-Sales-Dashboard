@@ -1,3 +1,8 @@
+![Adidas Interactive Sales Dashboard](https://github.com/NikhilPanda01/Adidas-Interactive-Sales-Dashboard/assets/114555468/e2f28e4f-3d97-4bff-bc5c-79132609c124)
+- Title :- Adidas Interactive Sales Dashboard
+- Created by :- Nikhil Panda
+- Date :- 25-06-2023
+- Tool used:- Excel
 
 # ADIDAS INTERACTIVE SALES DASHBOARD
 
